@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'ReactOrderLens'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_404725F5C0974FF8B687FD45D204174C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_95C83843B1C041738AAB726779354440 }}
